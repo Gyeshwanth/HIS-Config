@@ -46,4 +46,5 @@ app:
     registersuccessmsg : User Register Succesfully.
     registerfailedmsg  : Failed to Save User Details.
     loginsuccessmsg : Login Successfully.
-    loginfailedmsg   : Login Failed. 
+    loginfailedmsg   : Login Failed.
+    usercredentialsfailedmsg : Please Use Validate Credentials.
