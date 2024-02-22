@@ -48,3 +48,4 @@ app:
     loginsuccessmsg : Login Successfully.
     loginfailedmsg   : Login Failed.
     usercredentialsfailedmsg : Please Use Validate Credentials.
+    usercredentialscode      : HIS0003
