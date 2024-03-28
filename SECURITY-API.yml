@@ -37,15 +37,15 @@ spring:
 
 app:
  messages:
-    usernotfound : User Details Not Found with
-    mailsubject  : HIS Register Password
-    bodycontent  : <h3>Use this First time Login Password </h3>
-    existingusermsg : User is already Existing. Please Login
-    usernotfoundcode : HIS0001
-    userexsitingcode : HIS0002
-    registersuccessmsg : User Register Succesfully.
-    registerfailedmsg  : Failed to Save User Details.
-    loginsuccessmsg : Login Successfully.
-    loginfailedmsg   : Login Failed.
-    usercredentialsfailedmsg : Please Use Validate Credentials.
-    usercredentialscode      : HIS0003
+    usernotfound : "User Details Not Found with"
+    mailsubject  : "HIS Register Password"
+    bodycontent  : "<h3>Use this First time Login Password </h3>"
+    existingusermsg : "User is already Existing. Please Login"
+    usernotfoundcode : "HIS0001"
+    userexsitingcode : "HIS0002"
+    registersuccessmsg : "User Register Succesfully."
+    registerfailedmsg  : "Failed to Save User Details."
+    loginsuccessmsg : "Login Successfully."
+    loginfailedmsg   : "Login Failed."
+    usercredentialsfailedmsg : "Please Use Validate Credentials."
+    usercredentialscode      : "HIS0003"
