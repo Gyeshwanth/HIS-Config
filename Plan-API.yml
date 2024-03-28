@@ -27,11 +27,11 @@ spring:
 
 app:
  messages:
-     plannotfoundcode:  Plan0001
-     plannotfoundmsg:   Plan Details Not Present With This Id
-     plansavemsg:       Plan Saved.
-     plansavefailmsg:   Plan Save Failed.
-     updatedfailmsg:    Plan Updated Failed.
-     updatedsuccessmsg: Plan Updated.
+     plannotfoundcode:  "Plan0001"
+     plannotfoundmsg:   "Plan Details Not Present With This Id"
+     plansavemsg:       "Plan Saved."
+     plansavefailmsg:   "Plan Save Failed."
+     updatedfailmsg:    "Plan Updated Failed."
+     updatedsuccessmsg: "Plan Updated."
      
      
