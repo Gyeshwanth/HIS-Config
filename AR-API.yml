@@ -29,4 +29,6 @@ app:
      ssnwebapi: "http://localhost:1234/citizen-details"
     successmessage:  "Citizen is Successfully Register"
     failedmessage:  "Citizen Not Belong to Rhode Island, Application Registration Failed"
+    appnotfound:  "ApplicationRegFailed"   
+    appnotfoundcode: "AR0001"
    
