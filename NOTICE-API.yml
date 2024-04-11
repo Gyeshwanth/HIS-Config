@@ -36,11 +36,16 @@ spring:
         url: http://localhost:1232
 
 
-cloud:
-  aws:
-    credentials:
-      access-key: ''
-      secret-key: ''
-    region: ''
-    s3:
-      bucket: ''
+app:
+ messages:
+    mailsubject  : "HIS-NOTICE"
+    bodycontent  : "<h3>Eligility Information</h3>"
+    awss3bucketName:
+    awscredentialsaccess-key:
+    awscredentialssecret-key:
+    aws-region:
+    successnotice: "Notice Generated successfully"
+    failednotice: "Notice Generated failed"
+    
+
+
