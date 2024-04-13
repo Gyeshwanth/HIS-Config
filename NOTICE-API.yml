@@ -40,10 +40,10 @@ app:
  messages:
     mailsubject  : "HIS-NOTICE"
     bodycontent  : "<h3>Eligility Information</h3>"
-    awss3bucketName:
-    awscredentialsaccess-key:
-    awscredentialssecret-key:
-    aws-region:
+    awss3bucketName: "his-notices"
+    awscredentialsaccess-key: "AKIA5JFNQCS2P2TJONYJ"
+    awscredentialssecret-key: "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"
+    aws-region: "ap-south-1"
     successnotice: "Notice Generated successfully"
     failednotice: "Notice Generated failed"
     
